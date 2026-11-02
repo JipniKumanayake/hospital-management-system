@@ -24,4 +24,4 @@ pool.connect()
     console.error("Database Connection Failed:", err.message);
   });
 
-module.exports = pool;git 
+module.exports = pool;
