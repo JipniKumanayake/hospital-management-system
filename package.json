@@ -1,0 +1,8 @@
+{
+  "name": "hms",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build": "cd backend && npm install",
+    "start": "node backend/src/server.js"
+  }
+}
